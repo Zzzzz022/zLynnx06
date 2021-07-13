@@ -1,3 +1,5 @@
+***********************************
+#### - 😺 Redes Sociales:
 
 <br/>
 <a href="https://twitter.com/zLynnx066">
@@ -13,6 +15,9 @@
 </a>
 <a href="https://open.spotify.com/user/31bkmbczqn4uv7wqtxfk5eytudpe">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.discordapp.com/attachments/842581472997015563/864653729382400024/black-spotify-icon.png" />
+
+
+<br />
   
 ***********************************
 
@@ -29,7 +34,6 @@
 
 *************
 
-<br />
 
 ### - Lenguajes y herramientas...
 
