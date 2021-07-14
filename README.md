@@ -37,9 +37,6 @@
 <a href="https://github.com/zLynnx06">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&layout=compact" />
 </a>
-
-
-Feel free to chat with me on discord.
   
 *************
 
