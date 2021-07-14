@@ -14,7 +14,7 @@
 
 </a>
 <a href="https://open.spotify.com/user/31bkmbczqn4uv7wqtxfk5eytudpe">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.discordapp.com/attachments/842581472997015563/864653729382400024/black-spotify-icon.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.discordapp.com/attachments/842581472997015563/864666648559484958/png-transparent-graphics-spotify-logo-black-and-white-spotify-logo-logo-black-and-white-symbol.png" />
 
 
 <br />
