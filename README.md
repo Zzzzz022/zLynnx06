@@ -29,7 +29,7 @@
 Dictionary<string, string> presentation =
     new Dictionary<string, string>();
 {
-  { "Description:", "Configuradora de Bots de Discord"},
+  { "Description:", "Discord bot developer"},
   { "Experience: ", "HTML, C#, JavaScript, Python" },
   { "Discord: ", ">.<឵឵឵#0001"},
 }
