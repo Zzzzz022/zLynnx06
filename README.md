@@ -3,18 +3,22 @@
 
 <br/>
 <a href="https://twitter.com/zLynnx066">
-  <img align="left" alt="zLynnx06 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="zLynnx06 | Twitter" width="22px" src="https://cdn.discordapp.com/attachments/842581472997015563/864667364197138472/371907030_TWITTER_ICON_1080.png" />
 </a>
 <a href="https://www.instagram.com/zlynnx066">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.discordapp.com/attachments/842581472997015563/864667143224557629/instagram-social-media-logo-for-your-works-png-format-19.png" />
   
 </a>
 <a href="https://discord.gg/4DWVqPvzw7">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.discordapp.com/attachments/842581472997015563/864652824242421770/discord-logo--v1.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.discordapp.com/attachments/842581472997015563/864667758201143316/Discord-Logo-Circle.png" />
 
 </a>
+<a href="https://www.youtube.com/channel/UCBCfP4bXAKud-7T9sW_GnvA">
+  <img align="left" alt="Instagram" width="22px" src="http://clipart-library.com/images_k/youtube-logo-png-transparent/youtube-logo-png-transparent-22.png" />
+  
+</a>
 <a href="https://open.spotify.com/user/31bkmbczqn4uv7wqtxfk5eytudpe">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.discordapp.com/attachments/842581472997015563/864666648559484958/png-transparent-graphics-spotify-logo-black-and-white-spotify-logo-logo-black-and-white-symbol.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.discordapp.com/attachments/842581472997015563/864666928227942400/spotify-download-logo-30.png" />
 
 
 <br />
