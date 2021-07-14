@@ -28,12 +28,20 @@
 #### - 📇 Configuradora de Servidores, bots de Discord
 
 
-![zLynnx06 Github Stats](https://github-readme-stats.vercel.app/api?username=zLynnx06&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![zLynnx06 Github Stats](https://github-readme-stats.vercel.app/api?username=zLynnx06&show_icons=true&title_color=FF0176&icon_color=FA0000&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
 *************
 
+<a href="https://github.com/zLynnx06">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&layout=compact" />
+</a>
+
+
+Feel free to chat with me on discord.
+  
+*************
 
 ### - Lenguajes y herramientas...
 
