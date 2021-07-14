@@ -1,5 +1,5 @@
 ***********************************
-#### - 😺 Redes Sociales:
+> #### ・ 😺 Redes Sociales:
 
 <br/>
 <a href="https://twitter.com/zLynnx066">
@@ -24,24 +24,22 @@
 <br />
   
 ***********************************
+
+```js
   
-#### - ⚒ Experience: Discord.js
-
-#### - 🛸 Discord: >.<឵឵឵#0001
-
-#### - 📇 Configuradora de Servidores, bots de Discord
-
+Dictionary<string, string> presentation =
+    new Dictionary<string, string>();
+{
+  { "Description:", "Configuradora de Bots de Discord"},
+  { "Experience: ", "HTML, C#, JavaScript, Python" },
+  { "Discord: ", ">.<឵឵឵#0001"},
+}
+``` 
 
 ![zLynnx06 Github Stats](https://github-readme-stats.vercel.app/api?username=zLynnx06&show_icons=true&title_color=FF0176&icon_color=FA0000&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
-*************
-
-<a href="https://github.com/zLynnx06">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&layout=compact" />
-</a>
-  
 *************
 
 ### - Lenguajes y herramientas...
