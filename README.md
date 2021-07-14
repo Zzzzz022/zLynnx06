@@ -49,7 +49,6 @@ Dictionary<string, string> presentation =
 <br />
 
 ***********************************
-***********************************
 
 ### ・ Lenguajes y herramientas ・
 
