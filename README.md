@@ -32,19 +32,15 @@ Dictionary<string, string> presentation =
 {
   { "Description:", "Discord bot developer"},
   { "Experience: ", "HTML, C#, JavaScript, Python" },
-  { "Discord: ", ">.<឵឵឵#0001"},
+  { "Discord: ", "> ''zLynnx  🥀,,#0001"},
 }
 ``` 
 
 ***********************************
-  </a>
+<br />
 
-<p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zLynnx06&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&theme=tokyonight&show_icons=true" />
-
-</p>
+![zLynnx06 Github Stats](https://github-readme-stats.vercel.app/api?username=zLynnx06&show_icons=true&title_color=FF0085&icon_color=A20000&text_color=9f9f9f&bg_color=020000)
 
 <br />
 
