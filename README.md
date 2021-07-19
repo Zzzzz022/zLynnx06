@@ -1,5 +1,9 @@
-***********************************
-> #### ・ 😺 Redes Sociales ・
+
+|  <a href="https://github.com/zLynnx06"><img src="https://cdn.discordapp.com/attachments/842275243434967043/866800894732926976/a_a0ef66fd98a5002b572039293f987a67.gif" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[> ''zLynnx  🥀,,](https://github.com/zLynnx06)**                                                                                | 
+
+#### ・ 😺 Redes Sociales ・
 
 <br/>
 <a href="https://twitter.com/zLynnx066">
@@ -23,7 +27,7 @@
   
 <br />
   </a>
-
+  
 ***********************************
 
 ```js
@@ -34,7 +38,7 @@ Dictionary<string, string> presentation =
   { "Experience: ", "HTML, C#, JavaScript, Python" },
   { "Discord: ", "> ''zLynnx  🥀,,#0001"},
 }
-``` 
+```
 
 ***********************************
 <br />
@@ -49,7 +53,7 @@ Dictionary<string, string> presentation =
 ### ・ Lenguajes y herramientas ・
 
 <p align="center">
- <img src="https://cdn.discordapp.com/attachments/864669532924018718/864669541481447435/html.png" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
-
+ <img src="https://cdn.discordapp.com/attachments/864669532924018718/864669541481447435/html.png" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img 
+src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  
 ***********************************
