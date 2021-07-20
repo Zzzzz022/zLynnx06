@@ -1,4 +1,3 @@
-
 |  <a href="https://github.com/zLynnx06"><img src="https://cdn.discordapp.com/avatars/827578468979441734/a_2e5fc5b6d2f168504012a2f310800b10.gif?size=2048" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[> ''zLynnx  🥀,,](https://github.com/zLynnx06)**                                                                                | 
@@ -41,12 +40,13 @@ Dictionary<string, string> presentation =
 ```
 
 ***********************************
-<br />
 
-
-![zLynnx06 Github Stats](https://github-readme-stats.vercel.app/api?username=zLynnx06&show_icons=true&title_color=FF0085&icon_color=A20000&text_color=9f9f9f&bg_color=020000)
-
-<br />
+<a href="https://github.com/Pranjaljain0/Pranjaljain0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Pranjaljain0/Pranjaljain0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zLynnx06&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
+</a>
 
 ***********************************
 
