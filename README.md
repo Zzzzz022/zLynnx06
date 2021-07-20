@@ -41,8 +41,8 @@ Dictionary<string, string> presentation =
 
 ***********************************
 
-<a href="https://github.com/zLynnx06/zLynnx06">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/zLynnx06">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/zLynnx06/zLynnx06">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zLynnx06&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
