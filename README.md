@@ -1,6 +1,6 @@
 |  <a href="https://github.com/zLynnx06"><img src="https://cdn.discordapp.com/avatars/827578468979441734/a_2e5fc5b6d2f168504012a2f310800b10.gif?size=2048" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[> ''zLynnx  🥀,,](https://github.com/zLynnx06)**                                                                                | 
+|       **[> ''zLynnx  🥀,,](https://github.com/zLynnx06)**                                                                                |  
 
 #### ・ 😺 Redes Sociales ・
 
@@ -53,7 +53,7 @@ Dictionary<string, string> presentation =
 ### ・ Lenguajes y herramientas ・
 
 <p align="center">
- <img src="https://cdn.discordapp.com/attachments/864669532924018718/864669541481447435/html.png" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img 
-src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.discordapp.com/attachments/842581472997015563/867823774975000576/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3836343636393533323932.png" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://cdn.discordapp.com/attachments/842581472997015563/867823801013501952/csharp.png"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://cdn.discordapp.com/attachments/842581472997015563/867823815655686164/js.png" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://cdn.discordapp.com/attachments/842581472997015563/867823836829188096/python.png" alt="Twitter" style="vertical-align:top; margin:4px"><img 
+src="https://cdn.discordapp.com/attachments/842581472997015563/867823852229885952/visualstudio_code.png" alt="Twitter" style="vertical-align:top; margin:4px">
   
 ***********************************
