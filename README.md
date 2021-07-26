@@ -40,7 +40,7 @@ Dictionary<string, string> presentation =
 ***********************************
 
 <a href="https://github.com/zLynnx06">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&theme=radical&hide=glsl" />
 </a>
 <a href="https://github.com/zLynnx06/zLynnx06">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zLynnx06&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
