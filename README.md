@@ -1,4 +1,4 @@
-|  <a href="https://github.com/zLynnx06"><img src="https://cdn.discordapp.com/avatars/827578468979441734/ad567771de21d68fbfd4e83200a5d472.png?size=2048?size=4096" width="150px" height="150px" /></a> |
+|  <a href="https://github.com/zLynnx06"><img src="https://cdn.discordapp.com/avatars/827578468979441734/266b3fe2bca51281d830b951d6ca0aa4.png?size=2048" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[> ''zLynnx  🥀,,](https://github.com/zLynnx06)**                                                                                |  
 
