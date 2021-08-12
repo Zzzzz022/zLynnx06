@@ -1,7 +1,7 @@
-|  <a href="https://github.com/zLynnx06"><img src="https://cdn.discordapp.com/avatars/827578468979441734/266b3fe2bca51281d830b951d6ca0aa4.png?size=2048" width="150px" height="150px" /></a> |
+|  <a href="https://github.com/zLynnx06"><img src="https://cdn.discordapp.com/avatars/827578468979441734/8bbddb70d3d7b33b0186ab7e70db5a9b.png?size=2048" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[> ''zLynnx  🥀,,](https://github.com/zLynnx06)**                                                                                |  
-
+Discord
 <br/>
 <a href="https://twitter.com/zLynnx066">
   <img align="left" alt="zLynnx06 | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/black-and-white-twitter-logo-png-hq-download-25.png" />
