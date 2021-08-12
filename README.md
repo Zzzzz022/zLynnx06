@@ -12,7 +12,7 @@
 
 </a>
 <a href="https://open.spotify.com/user/31bkmbczqn4uv7wqtxfk5eytudpe">
-  <img align="left" alt="zLynnx06 | Spotify" width="22px" src="https://icons-for-free.com/iconfiles/png/512/simple+and+minimal+line+icons+spotify-1324450581038445238.png" />
+  <img align="left" alt="zLynnx06 | Spotify" width="22px" src="https://i.pinimg.com/originals/71/7d/1c/717d1cb8acba98548edbe4e30b00f019.png" />
   
 <br />
   </a>
