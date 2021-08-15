@@ -18,7 +18,7 @@
   
 ***********************************
 ### 🔻 About Me 🔻
-```zLynnx
+```julia
 module main
 
 aboutMe :: struct {
@@ -31,7 +31,7 @@ main :: func(): void {
   zLynnx :: aboutMe = {
     pronouns: ["She", "Her"],
     languages: ["HTML", "C#", "Java", "Python"],
-    bonustrack: "Discord bot developer"
+    bonustrack: "Discord bot developer | 16 years | speak 🇪🇸 & 🇺🇸 "
   };
 
   println "Pronouns: ${zLynnx.pronouns}";
@@ -40,7 +40,7 @@ main :: func(): void {
 }
 ```
 ***********************************
-### ・📈 Github Overview 📈・
+### ・Github Overview・
 
 <a href="https://github.com/zLynnx06">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLynnx06&theme=radical&hide=glsl" />
