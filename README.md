@@ -1,21 +1,3 @@
-|  <a href="https://discord.com/users/827578468979441734"><img src="https://cdn.discordapp.com/avatars/827578468979441734/c528d239e0c3ffda729cdd8ca2a43f2d.png?size=2048" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[> ''zLynnx  🥀,,](https://github.com/zLynnx06)**                                                                                |  
-<br/>
-<a href="https://twitter.com/zLynnx06">
-  <img align="left" alt="zLynnx06 | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/black-and-white-twitter-logo-png-hq-download-25.png" />
-  
-</a>
-<a href="https://discord.com/users/827578468979441734">
-  <img align="left" alt=".gg/4DWVqPvzw7 | Discord" width="22px" src="https://cdn.discordapp.com/attachments/846493368163106827/864652806421217290/discord-logo--v1.png" />
-
-</a>
-<a href="https://open.spotify.com/user/31bkmbczqn4uv7wqtxfk5eytudpe">
-  <img align="left" alt="zLynnx06 | Spotify" width="22px" src="https://i.pinimg.com/originals/71/7d/1c/717d1cb8acba98548edbe4e30b00f019.png" />
-  
-<br />
-  </a>
-  
 ***********************************
 ### 🔻 About Me 🔻
 ```julia
@@ -39,6 +21,30 @@ main :: func(): void {
   println "bonustrack: ${zLynnx.bonustrack}";
 }
 ```
+***********************************
+### ・🌐 Social Media 🌐・
+<a href="https://twitter.com/zLynnx06">
+  <img align="left" alt="zLynnx06 | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/black-and-white-twitter-logo-png-hq-download-25.png" />
+  
+</a>
+<a href="https://discord.com/users/827578468979441734">
+  <img align="left" alt=".gg/4DWVqPvzw7 | Discord" width="22px" src="https://cdn.discordapp.com/attachments/846493368163106827/864652806421217290/discord-logo--v1.png" />
+
+</a>
+<a href="https://open.spotify.com/user/31bkmbczqn4uv7wqtxfk5eytudpe">
+  <img align="left" alt="zLynnx06 | Spotify" width="22px" src="https://i.pinimg.com/originals/71/7d/1c/717d1cb8acba98548edbe4e30b00f019.png" />
+  
+</a>
+<a href="https://www.instagram.com/zlynnx066/?hl=es-la">
+  <img align="left" alt="zLynnx066 | Instagram" width="22px" src="https://cdn.discordapp.com/attachments/842581472997015563/875227182962716702/logo-ig-instagram-icon-download-icons-12.png" />
+   
+</a>
+<a href="https://www.youtube.com/c/スカイイ-リンクス">
+  <img align="left" alt="zLynnx06 | YouTube" width="22px" src="https://www.searchpng.com/wp-content/uploads/2019/02/Youtube-Black-Icon-PNG.png" />
+  
+<br />
+  </a>
+  
 ***********************************
 ### ・Github Overview・
 
