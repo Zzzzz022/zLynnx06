@@ -6,19 +6,19 @@ module main
 aboutMe :: struct {
   pronouns :: string[];
   languages :: string[];
-  bonustrack :: string;
+  info :: string;
 }
 
 main :: func(): void {
   zLynnx :: aboutMe = {
     pronouns: ["She", "Her"],
     languages: ["HTML", "C#", "Java", "Python"],
-    bonustrack: "Discord bot developer | 16 years | speak 🇪🇸 & 🇺🇸 "
+    info: "Discord bot developer | 16 years | speak 🇪🇸 & 🇺🇸 "
   };
 
   println "Pronouns: ${zLynnx.pronouns}";
   println "Languages I Know: ${zLynnx.languages}";
-  println "bonustrack: ${zLynnx.bonustrack}";
+  println "info: ${zLynnx.info}";
 }
 ```
 ***********************************
